@@ -1,0 +1,8 @@
+site_name: Documentazione con MkDocs
+
+nav:
+        - Home: index.md
+        - Creazione e primi passi: creare.md
+        - Scrivere in MarkDown: testo.md 
+theme: readthedocs
+
