@@ -1,0 +1,3 @@
+# AI Component
+
+Intelligenza artificiale
