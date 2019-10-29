@@ -3,6 +3,8 @@ site_name: Sentyment
 nav:
         - Introduction: index.md
 
+        - How to run sentyment: run/run.md
+
         - Cordinator:
                 - General overview: 'cordinator/cordinator-description.md'
                 - Main component: 'cordinator/cordinator-component.md'
