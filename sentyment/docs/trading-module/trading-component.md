@@ -1,4 +1,0 @@
-# Trading Component
-
-Trading Module
-
