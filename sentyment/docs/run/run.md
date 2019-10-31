@@ -77,7 +77,7 @@ Assumendo di aver seguito tutti i punti precedenti, di aver quindi fatto il setu
 nomi utente e password, aver creato database e tabelle, possedere tutti i sotto moduli di sentyment e installato tutte le librerie mancanti di
 python, ora e' sufficiente eseguire lo script del launcher che attivera' tutti i moduli del sistema (comandi sempre **dalla directory di sentyment.root**):
 
-	./sentyment_run.py
+	./sentyment_launcher.py
 
 
 Attivare anche il job di `cron` per il timer che esegue la creazione giornaliera delle candele:
